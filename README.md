@@ -2,14 +2,12 @@
 * I am a Web Developer with experience in PHP, Node.JS, Java, Angular, and React among others
 * Right now, I am developing mobile experiences with the Ionic Framework, Strapi, and NestJS
 * My private projects:
-  1. Figure out how to use kubernetes with Spring Boot Cloud
-  2. Learn some more Python especially with FastAPI
-  3. Lua in web development with Lapis
-* Games I currently play ( _a lot_ ):
-  * Towerfall Acension
-  * Nino Kuni 1
-  * Portal Dungeons
-  * Elden Ring
+  1. Create an Inventory Tracking System with NestJS and React
+  2. Create a SwiftUI App to track trains concurrently
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=prinzjuliano&heme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ### I support these:
 <!--START_SECTION:badges-->
