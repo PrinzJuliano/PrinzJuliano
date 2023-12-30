@@ -14,3 +14,5 @@
 
 [![OpenJS Foundation: JavaScriptLandia](https://images.credly.com/size/110x110/images/abf73960-edd2-4115-9ab9-e42e9fd967e9/JSLandia.png)](http://www.credly.com/badges/76728aa6-359a-4119-951a-1e9e8ef1a97f "OpenJS Foundation: JavaScriptLandia")
 <!--END_SECTION:badges-->
+[![FFMPEG](https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg)](https://ffmpeg.org/donations.html)
+[<img alt="ImageMagick" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/ImageMagick_logo.svg" width="200" height="200">](https://imagemagick.org/script/support.php)
